@@ -11,3 +11,6 @@ li {
 .visible {
     display: block;
 }
+img{
+	width:25%;
+}
